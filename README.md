@@ -41,4 +41,4 @@ Ensure that `config_nsx.ini` and `config.json` are configured with the correct N
 Contributions to this project are welcome. Please ensure that any pull requests or issues are descriptive and relevant to the project's goals.
 
 ## Contact
-daryl.allen@sscinc.com
+daryl.allen.jr@gmail.com
