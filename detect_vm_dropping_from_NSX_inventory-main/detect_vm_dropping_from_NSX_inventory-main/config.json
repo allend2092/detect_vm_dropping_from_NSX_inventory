@@ -1,6 +1,0 @@
-{
-    "_comment": "Add credentials here. This file is read by the powerCLI script make_vm_list_vcenter.ps1"
-    "vCenterServer": "<vCenter URL or ip address>",
-    "username": "login creds",
-    "password": "<password>"
-}
